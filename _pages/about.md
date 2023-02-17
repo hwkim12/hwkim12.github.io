@@ -22,15 +22,18 @@ social: true  # includes social icons at the bottom of the page
 
 I am a fourth-year Computational and Applied Math PhD student at the University of Chicago, advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/about?authuser=0). I also work closely with Prof. [Panos Toulis](https://www.ptoulis.com/).
 
-Broadly speaking, my research interests lie in developing methodological tools for Bayesian modeling, uncertainty quantification, and experimental designs. Some of my recent works are on probabilistic/optimization methods for complex dynamical systems governed by differential equations. I am also keen to utilize existing statistical/computational tools for modeling infectious diseases, social experiments, and physical phenomena. 
+Broadly speaking, my research interests lie in developing methodological tools for Bayesian modeling, uncertainty quantification, and experimental designs. Some of my recent works are on probabilistic/optimization methods for estimating parameters of complex dynamical systems governed by differential equations. I am also keen to utilize existing statistical/computational tools for modeling infectious diseases, social experiments, and physical phenomena. 
 
 
-Keywords:
-* Bayesian Inference, Uncertainty Quantification.
+Methodological Keywords:
+* Bayesian Inference, Gaussian Process.
 * Monte-Carlo Method, Stochastic/Blackbox Optimization.
+* Randomization Test.
+
+Domain Keywords:
 * Experimental Design, Computer Experiments, Active Learning.
 * Statistical Inverse Problem.
-* State-Space Model/Data Assimilation.
+* Data Assimilation, State-Space Model.
 
 
 
