@@ -2,24 +2,35 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: PROFILE.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Jones Laboratory 307</p>
+    <p>5747 South Ellis Avenue</p>
+    <p>Chicago, IL 60637</p>
+    <p> <sub> hwkim (at) uchicago (dot) edu </sub> </p>
+    
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a fourth-year Computational and Applied Math PhD student at the University of Chicago, advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/about?authuser=0). I also work closely with Prof. [Panos Toulis](https://www.ptoulis.com/). Prior to UChicago, I received an MMath degree from the University of Waterloo and a BS degree from the University of Michigan. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Broadly speaking, my research interests lie in developing methodological tools for Bayesian modeling, uncertainty quantification, and experimental designs. Some of my recent works are on probabilistic/optimization methods for complex dynamical systems governed by differential equations. I am also keen to utilize existing statistical/computational tools for modeling infectious diseases, social experiments, and physical phenomena. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+Keywords:
+* Bayesian Inference, Uncertainty Quantification.
+* Monte-Carlo Method, Stochastic/Blackbox Optimization.
+* Experimental Design, Computer Experiments, Active Learning.
+* Statistical Inverse Problem.
+* State-Space Model/Data Assimilation.
+
+
+
