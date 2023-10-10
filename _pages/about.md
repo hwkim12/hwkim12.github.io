@@ -26,13 +26,10 @@ My research interests lie in developing theoretical understanding and methodolog
 
 I am on the job market this year and looking for academic research positions starting summer 2024.
   
-Methodological interests:
-* Bayesian Inference, Gaussian Process.
-* Bayesian Optimization, Monte-Carlo Methods, Stochastic Optimization.
-
-Domain interests:
-* Adaptive Experiments, Bandit Problems, Computer Experiments.
-* Uncertainty Quantification for Differential Equation Models and Optimization Methods.
+Research Keywords:
+* Bayesian Inference, Computer Experiments, Gaussian Process.
+* Monte-Carlo Methods, Stochastic Optimization.
+* Adaptive Experiments, Bandit Algorithms, Bayesian Optimization. 
 * Domain Adaptation, Distribution-Shift.
 
 
