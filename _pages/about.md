@@ -28,7 +28,7 @@ I am on the job market this year and looking for academic research positions sta
   
 Research Keywords:
 * Bayesian Inference, Gaussian Process
-* Bayesian Optimization/Blackbox, Stochastic Optimization
+* Bayesian/Blackbox/Stochastic Optimization
 * Bandit Algorithms, Sequential Experimental Design 
 * Domain Adaptation, Distribution Shift
 
