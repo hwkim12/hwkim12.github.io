@@ -27,9 +27,10 @@ My research interests lie in developing theoretical understanding and methodolog
 I am on the job market this year and looking for academic research positions starting summer 2024.
   
 Research Keywords:
-* Bayesian Inference, Gaussian Process, Stochastic/Blackbox Optimization.
-* Bandit Algorithms, Bayesian Optimization, Sequential Experimental Design 
-* Domain Adaptation, Distribution Shift.
+* Bayesian Inference, Gaussian Process
+* Bayesian Optimization/Blackbox, Stochastic Optimization
+* Bandit Algorithms, Sequential Experimental Design 
+* Domain Adaptation, Distribution Shift
 
 
 
