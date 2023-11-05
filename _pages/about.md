@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: PROFILE.JPG
+  image: prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Jones Laboratory 307</p>
@@ -27,10 +27,9 @@ My research interests lie in developing theoretical understanding and methodolog
 I am on the job market this year and looking for academic research positions starting summer 2024.
   
 Research Keywords:
-* Bayesian Inference, Computer Experiments, Gaussian Process.
-* Monte-Carlo Methods, Stochastic Optimization.
-* Adaptive Experiments, Bandit Algorithms, Bayesian Optimization. 
-* Domain Adaptation, Distribution-Shift.
+* Bayesian Inference, Gaussian Process, Stochastic/Blackbox Optimization.
+* Bandit Algorithms, Bayesian Optimization, Sequential Experimental Design 
+* Domain Adaptation, Distribution Shift.
 
 
 
