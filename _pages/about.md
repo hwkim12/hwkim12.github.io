@@ -9,10 +9,10 @@ profile:
   image: prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Jones Laboratory 307</p>
-    <p>5747 South Ellis Avenue</p>
-    <p>Chicago, IL 60637</p>
-    <p> <sub> hwkim (at) uchicago (dot) edu </sub> </p>
+    <p> 214 Old Chemistry </p>
+    <p> Box 90251 </p>
+    <p> Durham, NC 27708 </p>
+    <p> <sub> hwanwoo.kim (at) duke (dot) edu </sub> </p>
     
 
 news: false  # includes a list of news items
