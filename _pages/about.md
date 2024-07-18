@@ -27,7 +27,7 @@ My research interests broadly lie in developing computational/statistical tools 
 Research Keywords:
 * Bayesian/Stochastic Optimization, Probabilistic Numerics
 * Bayesian Inference, Uncertainty Quantification
-* Dynamic Treatment Regime, Statistical reinforcement learning 
+* Dynamic Treatment Regime, Statistical Reinforcement Learning 
 * Computer Experiments, Online Experiments
 
 
