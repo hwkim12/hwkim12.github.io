@@ -20,16 +20,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a fifth-year Computational and Applied Math PhD student at the University of Chicago, advised by Prof. [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/about?authuser=0). I also work closely with Prof. [Panos Toulis](https://www.ptoulis.com/).
+I am a postdoctoral research associate in the statistical science department at Duke University working with [Eric Laber](https://www.laber-labs.com/) and [Simon Mak](https://sites.google.com/view/simonmak/home). Previously, I obtained my Ph.D. degree in computational math from University of Chicago, where I worked on statistical inverse problems under the guidance of [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/about?authuser=0) and stochastic approximation/optimization with [Panos Toulis][https://www.ptoulis.com/].
 
-My research interests lie in developing theoretical understanding and methodological tools for Bayesian/probabilistic modeling, and optimization strategies for problems arising from experimental design, statistical inverse problems and transfer learning. I am also keen to utilize existing statistical/computational tools to tackle scientific problems arising from social and biomedical sciences.
-
-I am on the job market this year and looking for academic research positions starting summer 2024.
+My research interests broadly lie in developing computational/statistical tools for Bayesian/probabilistic modeling, various types of experimental designs, and sequential decision-making. I am also keen to utilize existing methodological tools to tackle scientific problems arising from social and biomedical sciences.
   
 Research Keywords:
-* Bayesian Inference, Gaussian Process
-* Bayesian/Blackbox/Stochastic Optimization
-* Bandit Algorithms, Sequential Experimental Design 
+* Bayesian/Stochastic optimization, Probabilistic numerics
+* Bayesian inference, Computer experiments, Uncertainty quantification
+* Dynamic treatment regime, Online experiments, Statistical reinforcement learning 
 * Domain Adaptation, Distribution Shift
 
 
