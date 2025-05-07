@@ -6,6 +6,11 @@ description:
 nav: true
 nav_order: 5
 ---
+Enhancing Gaussian Process Surrogates for Optimization via Random Exploration
+[[slide](/assets/pdf/OPT_UQ_BO.pdf)]
+* SIAM conference on Mathematics of Data Science, Atlanta, USA, 2024.
+* International conference on Monte Carlo and Quasi-Monte Carlo, Waterloo, Canada, 2024.
+
 Bayesian optimization on manifolds via graph Gaussian processes [[slide](/assets/pdf/GRAPH_BO.pdf)]
 * SIAM conference on Optimization, Seattle, USA, 2023.  
 
