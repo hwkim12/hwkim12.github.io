@@ -9,7 +9,7 @@ nav_order: 5
 Enhancing Gaussian Process Surrogates for Optimization via Random Exploration
 [[slide](/assets/pdf/OPT_UQ_BO.pdf)][[poster](/assets/pdf/Improved_BO_poster.pdf)] 
 * International Conference on Monte Carlo Methods and Applications, Chicago, USA, 2025.
-* ASA/ISM spring research conference, New York, USA, 2025. 
+* ASA/IMS spring research conference, New York, USA, 2025. 
 * SIAM conference on Mathematics of Data Science, Atlanta, USA, 2024.
 * International conference on Monte Carlo and Quasi-Monte Carlo, Waterloo, Canada, 2024.
 
@@ -22,7 +22,7 @@ Bayesian optimization on manifolds via graph Gaussian processes [[slide](/assets
 
 Large-scale statistical inference with stochastic gradient descent [[slide](/assets/pdf/SGD_INF.pdf)] [[poster](/assets/pdf/SGD_INF_POST.pdf)] 
 * Joint Statistical Meetings, Toronto, Canada, 2023. 
-* ASA/ISM spring research conference, Banff, Canada, 2023. 
+* ASA/IMS spring research conference, Banff, Canada, 2023. 
 * Midwest Machine Learning Symposium, Chicago, USA, 2023. 
 
 Hierarchical ensemble Kalman methods with sparsity-promoting generalized gamma hyperpriors [[slide](/assets/pdf/HIERARCHICAL_SIAM_CSE.pdf)]
