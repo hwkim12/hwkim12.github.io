@@ -26,8 +26,8 @@ My research interests broadly lie in developing computational/statistical tools 
   
 Research Keywords:
 * Uncertainty Quantification, Probabilistic Numerics, Gaussian Process
-* Stochastic Approximation, Stochastic Gradient Descent for Reinforcement Learning and Statistical Inference
-* Bayesian Inference, Likelihood-free Inference, Variational Inference 
+* Stochastic Approximation for Reinforcement Learning and Statistical Inference
+* Bayesian Inference, Simulation-based Inference, Variational Inference 
 * Applications in Biomedical, Physical Sciences, and Engineering
 
 
