@@ -25,9 +25,10 @@ I am a postdoctoral associate in the statistical science department at Duke Univ
 My research interests broadly lie in developing computational/statistical tools for Bayesian/probabilistic modeling, various types of experimental designs, and sequential decision-making. I am also keen to utilize existing methodological tools to tackle scientific problems arising from domain sciences.
   
 Research Keywords:
-* Uncertainty Quantification, Probabilistic Numerics, Gaussian Process
-* Stochastic Approximation for Reinforcement Learning and Statistical Inference
-* Bayesian Inference, Simulation-based Inference, Variational Inference 
+* Bayesian Inference, Simulation-based Inference, Uncertainty Quantification
+* Stochastic Approximation/Optimization for Reinforcement Learning and Statistical Inference
+* Gaussian Process, Kernel Methods, Probabilistic Numerics
+* Active Learning, Statistical Experimental Design
 * Applications in Biomedical, Physical Sciences, and Engineering
 
 

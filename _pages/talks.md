@@ -7,9 +7,15 @@ nav: true
 nav_order: 5
 ---
 Enhancing Gaussian Process Surrogates for Optimization via Random Exploration
-[[slide](/assets/pdf/OPT_UQ_BO.pdf)]
+[[slide](/assets/pdf/OPT_UQ_BO.pdf)][[poster](/assets/pdf/Improved_BO_poster.pdf)] 
+* International Conference on Monte Carlo Methods and Applications, Chicago, USA, 2025.
+* ASA/ISM spring research conference, New York, USA, 2025. 
 * SIAM conference on Mathematics of Data Science, Atlanta, USA, 2024.
 * International conference on Monte Carlo and Quasi-Monte Carlo, Waterloo, Canada, 2024.
+
+Bayesian Optimization with Inexact Acquisition: Is Random Grid Search Sufficient?
+[[poster](/assets/pdf/Inexact_BO_poster.pdf)] 
+* Conference on Uncertainty in Artificial Intelligence (UAI), Rio de Janeiro, Brazil, 2025.
 
 Bayesian optimization on manifolds via graph Gaussian processes [[slide](/assets/pdf/GRAPH_BO.pdf)]
 * SIAM conference on Optimization, Seattle, USA, 2023.  
