@@ -23,12 +23,12 @@ social: true  # includes social icons at the bottom of the page
 I am a postdoctoral associate in the statistical science department at Duke University working with [Eric Laber](https://www.laber-labs.com/) and [Simon Mak](https://sites.google.com/view/simonmak/home). Previously, I obtained my Ph.D. degree in computational math from University of Chicago, where I worked on statistical inverse problems under the guidance of [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/about?authuser=0) and stochastic approximation/optimization with [Panos Toulis](https://www.ptoulis.com/).
 
 My research interests broadly lie in developing computational/statistical tools for Bayesian/probabilistic modeling, various types of experimental designs, and sequential decision-making. I am also keen to utilize existing methodological tools to tackle scientific problems arising from domain sciences.
-  
+ 
+
 Research Keywords:
-* Bayesian Inference, Simulation-based Inference, Uncertainty Quantification
-* Stochastic Approximation/Optimization for Reinforcement Learning and Statistical Inference
+* Bayesian Inference, Uncertainty Quantification
+* Stochastic Approximation, Reinforcement Learning, Online Inference
 * Gaussian Process, Kernel Methods, Probabilistic Numerics
-* Active Learning, Statistical Experimental Design
-* Applications in Biomedical, Physical Sciences, and Engineering
+* Applications in Biomedical Science and Engineering
 
 
