@@ -7,12 +7,19 @@ years: [2026, 2025, 2024, 2023, 2022, 2019, 2016, 2015]
 nav: true
 nav_order: 2
 ---
-<!-- _pages/publications.md -->
+
 <div class="publications">
-In reversed chronological order
+
+<h2 class="category">Published & Accepted</h2>
 {%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
+  <h3 class="year">{{y}}</h3>
+  {% bibliography -f papers -q @*[year={{y}},pubstate=accepted]* %}
+{% endfor %}
+
+<h2 class="category">Under Review / Revision</h2>
+{%- for y in page.years %}
+  <h3 class="year">{{y}}</h3>
+  {% bibliography -f papers -q @*[year={{y}},pubstate=submitted]* %}
 {% endfor %}
 
 </div>
