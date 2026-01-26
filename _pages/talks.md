@@ -1,11 +1,14 @@
 ---
 layout: page
 permalink: /talks/
-title: talks
+title: Talks
 description:
 nav: true
 nav_order: 5
 ---
+Stabilizing Temporal Difference Learning via Implicit Stochastic Recursion [[slide](/assets/pdf/OPT_UQ_BO.pdf)]
+* IMS International Conference on Statistics and Data Science, Seville, Spain, 2025.
+
 Enhancing Gaussian Process Surrogates for Optimization via Random Exploration
 [[slide](/assets/pdf/OPT_UQ_BO.pdf)][[poster](/assets/pdf/Improved_BO_poster.pdf)] 
 * International Conference on Monte Carlo Methods and Applications, Chicago, USA, 2025.
