@@ -10,16 +10,22 @@ nav_order: 2
 
 <div class="publications">
 
-<h2 class="category">Published & Accepted</h2>
-{%- for y in page.years %}
-  <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}},pubstate=accepted]* %}
-{% endfor %}
-
 <h2 class="category">Under Review / Revision</h2>
 {%- for y in page.years %}
+  {%- capture bib_output %}{% bibliography -f papers -q @*[year={{y}},pubstate=submitted]* %}{% endcapture -%}
+  {%- if bib_output != "" %}
   <h3 class="year">{{y}}</h3>
-  {% bibliography -f papers -q @*[year={{y}},pubstate=submitted]* %}
+  {{ bib_output }}
+  {%- endif %}
+{% endfor %}
+
+<h2 class="category">Published & Accepted</h2>
+{%- for y in page.years %}
+  {%- capture bib_output %}{% bibliography -f papers -q @*[year={{y}},pubstate=accepted]* %}{% endcapture -%}
+  {%- if bib_output != "" %}
+  <h3 class="year">{{y}}</h3>
+  {{ bib_output }}
+  {%- endif %}
 {% endfor %}
 
 </div>
