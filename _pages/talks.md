@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /talks/
+permalink: /Talks/
 title: Talks
 description:
 nav: true
