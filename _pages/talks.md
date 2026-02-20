@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
-Stabilizing Temporal Difference Learning via Implicit Stochastic Recursion [[slide](/assets/pdf/OPT_UQ_BO.pdf)]
+Stabilizing Temporal Difference Learning via Implicit Stochastic Recursion [[slide](/assets/pdf/Implicit_TD_beamer.pdf)]
 * IMS International Conference on Statistics and Data Science, Seville, Spain, 2025.
 
 Enhancing Gaussian Process Surrogates for Optimization via Random Exploration
