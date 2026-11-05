@@ -9,12 +9,13 @@ profile:
   image: prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
+    <div style="font-size: 0.8em;">
     <p> The University of Texas at Dallas </p>
     <p> Mathematical Sciences, FO 35 </p>
     <p> 800 West Campbell Road </p>
     <p> Richardson, TX 75080 </p>
-    <p> <sub> hwanwoo.kim (at) utdallas (dot) edu </sub> </p>
-    
+    <p> hwanwoo.kim (at) utdallas (dot) edu </p>
+    </div>    
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
