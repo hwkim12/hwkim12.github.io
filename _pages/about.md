@@ -9,11 +9,11 @@ profile:
   image: prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-  <p> The University of Texas at Dallas </p>
-  <p> Mathematical Sciences, FO 35 </p>
-  <p> 800 West Campbell Road </p>
-  <p> Richardson, TX 75080 </p>
-  <p> <sub> hwanwoo.kim (at) utdallas (dot) edu </sub> </p>
+    <p> The University of Texas at Dallas </p>
+    <p> Mathematical Sciences, FO 35 </p>
+    <p> 800 West Campbell Road </p>
+    <p> Richardson, TX 75080 </p>
+    <p> <sub> hwanwoo.kim (at) utdallas (dot) edu </sub> </p>
     
 
 news: false  # includes a list of news items
@@ -27,6 +27,7 @@ My research focuses on developing and analyzing computational and statistical me
  
 
 Research Keywords:
+
 * Uncertainty Quantification, Kernel Methods/Gaussian Processes
 * Sequential Decision Making, Theory and Practice of Reinforcement Learning
 * Derivative-Free Optimization, Statistical Inverse Problem
