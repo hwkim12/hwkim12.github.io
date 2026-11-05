@@ -10,8 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <div style="font-size: 0.8em;">
-    <p> The University of Texas at Dallas </p>
-    <p> Mathematical Sciences, FO 35 </p>
     <p> 800 West Campbell Road </p>
     <p> Richardson, TX 75080 </p>
     <p> hwanwoo.kim (at) utdallas (dot) edu </p>
@@ -30,7 +28,7 @@ My research focuses on developing and analyzing computational and statistical me
 Research Keywords:
 
 * Uncertainty Quantification, Kernel Methods/Gaussian Processes
-* Sequential Decision Making, Theory and Practice of Reinforcement Learning
+* Sequential Decision Making, Reinforcement Learning
 * Derivative-Free Optimization, Statistical Inverse Problem
 * Stochastic Approximation, Online Statistical Inference
 
