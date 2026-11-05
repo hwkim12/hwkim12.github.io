@@ -9,10 +9,7 @@ profile:
   image: prof.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> 214 Old Chemistry </p>
-    <p> Box 90251 </p>
-    <p> Durham, NC 27708 </p>
-    <p> <sub> hwanwoo.kim (at) duke (dot) edu </sub> </p>
+    <p> <sub> hwanwoo.kim (at) utdallas (dot) edu </sub> </p>
     
 
 news: false  # includes a list of news items
